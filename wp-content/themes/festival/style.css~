@@ -1,0 +1,36 @@
+/*
+Theme Name:Festival
+Theme URI:http://example.com/
+Description:Thème enfant du thème Twenty Twelve
+Author:Patrick BARBIERI
+Author URI:http://example.com/about/
+Template:twentytwelve
+Version:0.1.0
+*/
+
+
+@import url("../twentytwelve/style.css");
+
+.fg-rouge a {color= #F51832 !important;}
+.fg-jaune a {color: #FAF443 !important;}
+.fg-vert a {color: #86F27C !important;}
+.fg-orange a {color: #FA7743 !important;}
+.fg-bleu a {color: #7CF2C6 !important;}
+.fg-violet a {color: #E543FA !important;}
+
+/*.fg-rouge a {color: #F51832 !important;}
+.fg-jaune a {color: #FAF443 !important;}
+.fg-vert a {color: #86F27C !important;}
+.fg-orange a {color: #FA7743 !important;}
+.fg-bleu a {color: #7CF2C6 !important;}
+.fg-violet a {color: #E543FA !important;}*/
+
+
+/*.fg-rouge {color: #F51832; }
+.fg-jaune {color: #FAF443; }
+.fg-vert {color: #86F27C; }
+.fg-orange {color: #FA7743; }
+.fg-bleu {color: #7CF2C6; }
+.fg-violet {color: #E543FA; }*/
+
+ 

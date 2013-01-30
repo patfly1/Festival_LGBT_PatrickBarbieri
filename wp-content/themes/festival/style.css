@@ -1,0 +1,107 @@
+/*
+Theme Name:Festival
+Theme URI:http://example.com/
+Description:Thème enfant du thème Twenty Twelve
+Author:Patrick BARBIERI
+Author URI:http://example.com/about/
+Template:twentytwelve
+Version:0.1.0
+*/
+
+
+
+@import url("../twentytwelve/style.css");
+
+body {background-color:black;}
+
+#page {
+		background-color: #C0C2C0;
+}
+
+/* #page {
+		background-color: grey;
+} */
+
+#menu-navigation {
+		background-color: black;
+}
+
+#text-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+#meta-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+#categories-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+#archives-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+#recent-posts-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+#recent-comments-2 {
+		padding: 10px;
+		background-color: #ccc;
+}
+
+
+
+.fg-rouge a {color: #F51832 !important; }
+.fg-jaune a {color: #FAF443 !important; }
+.fg-vert a {color: #86F27C !important; }
+.fg-orange a {color: #FA7743 !important; }
+.fg-bleu a {color: #7CF2C6 !important; }
+.fg-violet a {color: #E543FA !important; }
+
+.fg-rouge {background-color: black;}
+.fg-jaune {background-color: black;}
+.fg-vert {background-color: black;}
+.fg-orange {background-color: black;}
+.fg-bleu {background-color: black;}
+.fg-violet {background-color: black;}
+
+
+#menu-item-29 {
+	width: 100px; 
+	text-align: center;
+	}
+
+#menu-item-25 {
+	width: 100px;
+	text-align: center;
+	}
+
+#menu-item-24 {
+	width: 130px;
+	text-align: center;
+	}
+
+#menu-item-28 {
+	width: 130px;
+	text-align: center;
+	}
+
+#menu-item-27 {
+	width: 100px;
+	text-align: center;
+	}
+
+#menu-item-26 {
+	width: 130px;
+	text-align: center;
+	}
+
+
+ 

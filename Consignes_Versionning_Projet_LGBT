@@ -1,0 +1,22 @@
+Sur GitHub:
+  - Créer un compte
+  - Créer un  repo (non initialisé, sans .gitignore)
+  - Notez l'adresse de ce repo par exemple https://github.com/login/festival.git
+
+Localement:
+ - Placez vous dans votre dossier WP
+ - Tapez les commandes :
+ 	- git init
+ 	- git add .
+ 	- git status
+ 	- git commit -m "Version initiale Projet Festival"
+ 	- git remote add origin https://github.com/login/festival.git
+    - git push -u origin master
+
+Quand vous voulez versionner des modifications ultérieures:
+
+Localement :
+ - git commit -m "correction fichier functions.php"
+ - git status
+ - git push -u origin master
+ 
